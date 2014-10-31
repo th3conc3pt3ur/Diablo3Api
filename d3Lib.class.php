@@ -2,7 +2,7 @@
 //********************************** //
 //  	DIABLO 3 LIBS   		  	 //	
 
-define("API_KEY","qttrkaf5dmm745f7kjhzthqrtqchhf2r"); // A REMPLACER PAR LA VOTRE BIEN ENTENDU
+define("API_KEY","VOTRE_CLE_API_ICI"); // A REMPLACER PAR LA VOTRE BIEN ENTENDU
 $tabClasse = array("barbarian","crusader","demon-hunter","monk","witch-doctor","wizard");
 $tabColor = array("rgba(255,255,0,","rgba(0,255,255,","rgba(255,0,255,");
 
